@@ -1,0 +1,1 @@
+<h1>Benvenuti oggi è il <?= date("d/m/Y")?> e sono le <?= date("h:i:s")?></h1>
