@@ -1,15 +1,1 @@
-lezione-06-08/._config
-lezione-06-08/._controller
-lezione-06-08/._dal
-lezione-06-08/._index.php
-lezione-06-08/._model
-lezione-06-08/._view
-lezione-06-08/config/._db.config.php
-lezione-06-08/config/._tabLibri.sql
-lezione-06-08/controller/._Libri.php
-lezione-06-08/dal/._Connessione.php
-lezione-06-08/model/._Libro.php
-lezione-06-08/view/._elencoLibri.php
-lezione-06-08/view/._footer.php
-lezione-06-08/view/._header.php
-lezione-06-08/dal/._LibroDAO.php
+._*
