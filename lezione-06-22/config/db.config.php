@@ -1,15 +1,20 @@
 <?php
 
 class Param{
-
-    //parametri dell'admin del sito
+	
+	
+	
+	//p	arametri dell'admin del sito
     public const USERNAME = "admin";
     public const PASSWORD = "12345";
 
     //parametri per la connessione al db
-    public const HOST = "localhost";
-    public const USER = "root";
-    public const PASS = "";
+    // public const HOST = "localhost";
+    public const HOST = "Its2020";
+    public const USER = "Its2020";
+    // public const USER = "root";
+    public const PASS = "Its2020";
+    // public const PASS = "";
     public const DATA_BASE = "libreria";
 
 
